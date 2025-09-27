@@ -1,14 +1,14 @@
 [
   {
     "username": "admin",
-    "password": "admin123",
+    "password": "1234",
     "role": "admin",
-    "expired": "2025-10-30T00:00:00.000Z"
+    "expired": null
   },
   {
     "username": "user1",
     "password": "user123",
     "role": "user",
-    "expired": null
+    "expired": "2025-10-30T00:00:00.000Z"
   }
 ]
