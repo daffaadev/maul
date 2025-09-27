@@ -1,14 +1,14 @@
 [
   {
-    "username": "dafa",
-    "password": "1",
+    "username": "admin",
+    "password": "admin123",
     "role": "admin",
-    "expired": "2025-12-28T07:01:32.520Z"
+    "expired": "2025-10-30T00:00:00.000Z"
   },
   {
-    "username": "maul",
-    "password": "1",
-    "role": "admin",
-    "expired": "2025-12-28T09:34:37.035Z"
+    "username": "user1",
+    "password": "user123",
+    "role": "user",
+    "expired": null
   }
 ]
